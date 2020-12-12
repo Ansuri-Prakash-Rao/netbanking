@@ -1,0 +1,12 @@
+[INFO ] 2020-12-05 21:13:28.099 [main] TC_LoginTest_001 - Opened URL
+[INFO ] 2020-12-05 21:13:28.244 [main] TC_LoginTest_001 - Entered User Name
+[INFO ] 2020-12-05 21:13:28.345 [main] TC_LoginTest_001 - Entered Password
+[INFO ] 2020-12-05 21:13:30.802 [main] TC_LoginTest_001 - Login Successful
+[INFO ] 2020-12-05 21:22:54.644 [main] TC_LoginTest_001 - Opened URL
+[INFO ] 2020-12-05 21:22:54.802 [main] TC_LoginTest_001 - Entered User Name
+[INFO ] 2020-12-05 21:22:54.916 [main] TC_LoginTest_001 - Entered Password
+[INFO ] 2020-12-05 21:22:58.596 [main] TC_LoginTest_001 - Login Successful
+[INFO ] 2020-12-06 00:24:22.712 [main] Base - Opened URL
+[INFO ] 2020-12-06 00:24:22.861 [main] Base - Entered User Name
+[INFO ] 2020-12-06 00:24:22.964 [main] Base - Entered Password
+[INFO ] 2020-12-06 00:24:24.989 [main] Base - Login Successful
